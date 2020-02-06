@@ -1,0 +1,15 @@
+pipeline {
+    /* insert Declarative Pipeline here */
+
+    //Specify agent
+    agent any
+
+    stages {
+        stage('Print Environment Variables') {
+        steps {
+            echo 'ENV'
+            sh 'printenv'
+          }
+        }
+    }
+}
