@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Build with unit test') {
         steps {
-            sh 'mvn clean install'
+            sh 'mvn clean install -f pom.xml'
           }
         }
     }
