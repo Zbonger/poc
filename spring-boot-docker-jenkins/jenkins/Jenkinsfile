@@ -7,7 +7,9 @@ pipeline {
     stages {
         stage('Build with unit test') {
         steps {
-            sh 'mvn clean install -f pom.xml'
+            dir("${env.WORKSPACE}/spring-boot-docker-jenkins") {
+                sh 'mvn clean install'
+            }
           }
         }
     }
