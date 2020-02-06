@@ -2,7 +2,7 @@ pipeline {
     /* insert Declarative Pipeline here */
 
     //Specify agent
-    agent any
+    //agent any
 
     /*stages {
         stage('Maven Build with unit test') {
