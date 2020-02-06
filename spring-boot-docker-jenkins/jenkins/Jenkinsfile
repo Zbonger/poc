@@ -4,7 +4,7 @@ pipeline {
     //Specify agent
     //agent any
 
-    /*stages {
+    stages {
         stage('Maven Build with unit test') {
             steps {
                 dir("${env.WORKSPACE}/spring-boot-docker-jenkins") {
@@ -13,7 +13,7 @@ pipeline {
               }
         }
 
-        stage('Docker build spring-boot image') {
+        /*stage('Docker build spring-boot image') {
             steps {
                 dir("${env.WORKSPACE}/spring-boot-docker-jenkins") {
                     sh 'docker build -t spring-boot/greetings -f docker/Dockerfile .'
@@ -27,6 +27,6 @@ pipeline {
                     sh 'docker run -p 5000:8080 spring-boot/greetings'
                 }
             }
-        }
-    }*/
+        }*/
+    }
 }
