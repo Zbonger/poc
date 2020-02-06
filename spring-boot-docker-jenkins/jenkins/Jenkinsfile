@@ -1,14 +1,15 @@
 pipeline {
     /* insert Declarative Pipeline here */
+    def targetVersion = getDevVersion()
 
     //Specify agent
     agent any
 
     stages {
-        stage('Build with unit test') {
+        stage('Maven Build with unit test') {
         steps {
             dir("${env.WORKSPACE}/spring-boot-docker-jenkins") {
-                sh 'mvn clean install'
+                sh 'mvn -Dbuild.number=${targetVersion} clean install'
             }
           }
         }
