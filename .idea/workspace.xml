@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f3e5f3f-8963-4535-8e58-1e7d5ef5c3d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\AXZ0HV8\.m2\repository" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQGhV0PheZE69fC8z4dpmjz9W0" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-docker-jenkins/src/main/java/com/docker/jenkins" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\projects\poc\spring-boot-docker-jenkins\src\main\java\com\docker\jenkins" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootDockerJenkinsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-docker-jenkins" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.docker.jenkins.SpringBootDockerJenkinsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f3e5f3f-8963-4535-8e58-1e7d5ef5c3d8" name="Default Changelist" comment="" />
+      <created>1580971023355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580971023355</updated>
+      <workItem from="1580971024780" duration="741000" />
+      <workItem from="1580971782522" duration="22000" />
+      <workItem from="1580971851460" duration="67000" />
+      <workItem from="1580971956025" duration="351000" />
+      <workItem from="1580972342799" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#Project_Structure" timestamp="1580971740670">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#Project_Structure/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580971740670" />
+    <state x="2728" y="415" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580971672632">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2728" y="415" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580971672632" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1580972571512">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972571512" />
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom" timestamp="1580972309086">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972309086" />
+    <state width="1876" height="285" key="GridCell.Tab.0.center" timestamp="1580972309086">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972309086" />
+    <state width="1876" height="285" key="GridCell.Tab.0.left" timestamp="1580972309086">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972309086" />
+    <state width="1876" height="285" key="GridCell.Tab.0.right" timestamp="1580972309086">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972309086" />
+    <state x="2152" y="290" width="1385" height="678" key="IDE.errors.dialog" timestamp="1580972397242">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2152" y="290" width="1385" height="678" key="IDE.errors.dialog/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972397242" />
+    <state x="2381" y="168" key="SettingsEditor" timestamp="1580972574267">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="168" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580972574267" />
+  </component>
+</project>
