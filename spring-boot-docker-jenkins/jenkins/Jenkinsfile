@@ -5,10 +5,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Print Environment Variables') {
+        stage('Build with unit test') {
         steps {
-            echo 'ENV'
-            sh 'printenv'
+            sh 'mvn clean install'
           }
         }
     }
