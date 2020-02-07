@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-docker-jenkins/docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-docker-jenkins/jenkins/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-boot-docker-jenkins/pom.xml">
           <value>
             <set />
@@ -29,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-boot-docker-jenkins/src/main/java/com/docker/jenkins/resources/LoadCatalogueResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-docker-jenkins/src/main/resources/docker/Dockerfile">
           <value>
             <set />
           </value>

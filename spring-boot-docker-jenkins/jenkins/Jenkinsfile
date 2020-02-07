@@ -12,6 +12,7 @@ pipeline {
                 }
               }
         }
+
         /*stage('Docker build spring-boot image') {
             steps {
                 dir("${env.WORKSPACE}/spring-boot-docker-jenkins") {
